@@ -14,4 +14,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saianjanc&show_icons=true&locale=en" alt="saianjanc" /></p>
 <p>I have Developed many projects on ReactJs using TailWindCSS and Material UI!</p>
-<img src="https://user-images.githubusercontent.com/87842675/228311402-72d63af4-6bb8-4607-9e0e-353f515af517.jpg" alt="ProjectImage")
+<img src="https://user-images.githubusercontent.com/87842675/228311402-72d63af4-6bb8-4607-9e0e-353f515af517.jpg" alt="ProjectImage")/>
