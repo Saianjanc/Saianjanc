@@ -13,5 +13,12 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saianjanc&show_icons=true&locale=en&layout=compact" alt="saianjanc" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saianjanc&show_icons=true&locale=en" alt="saianjanc" /></p>
-<p>I have Developed many projects on ReactJs using TailWindCSS and Material UI!</p>
+<p>I have Developed many projects in ReactJs using TailWindCSS and Material UI! Here are few projects done by me shown below:</p>
+<h1>BuddyUp(Chatting Application):</h1>
 <img src="https://user-images.githubusercontent.com/87842675/228311402-72d63af4-6bb8-4607-9e0e-353f515af517.jpg" alt="ProjectImage")/>
+<h1>BookStore(Ecommerce Website):</h1>
+<img src="https://github.com/Saianjanc/Saianjanc/assets/87842675/fd433103-eaf5-4b99-899d-7a871eb2640f" alt="BookStore")/>
+<h1>Quote Generator(React Application):</h1>
+<img src="https://github.com/Saianjanc/Saianjanc/assets/87842675/8f0c7797-5d59-4d96-85f0-d41e8576e58b" alt="QuoteGenerator")/>
+<h1>Fundoo(Take Notes Application):</h1>
+<img src="https://github.com/Saianjanc/Saianjanc/assets/87842675/ced83b28-1bf4-48fc-8bf3-228ba89cfc08" alt="Fundoo")/>
