@@ -13,7 +13,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saianjanc&show_icons=true&locale=en&layout=compact" alt="saianjanc" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saianjanc&show_icons=true&locale=en" alt="saianjanc" /></p>
-<p>I have Developed many projects in ReactJs using TailWindCSS and Material UI! Here are few projects done by me shown below:</p>
+<p>I have Developed few projects in ReactJs using TailWindCSS and Material UI! Here are few projects done by me shown below:</p>
 <h1>BuddyUp(Chatting Application):</h1>
 <img src="https://user-images.githubusercontent.com/87842675/228311402-72d63af4-6bb8-4607-9e0e-353f515af517.jpg" alt="ProjectImage")/>
 <h1>BookStore(Ecommerce Website):</h1>
